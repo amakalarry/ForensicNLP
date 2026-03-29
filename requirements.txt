@@ -1,0 +1,12 @@
+ torch>=2.1
+  transformers>=4.36
+  tokenizers>=0.15
+  datasets>=2.16
+  sentence-transformers>=2.3
+  faiss-cpu>=1.7 (or faiss-gpu if GPU available)
+  scikit-learn>=1.4
+  pandas
+  numpy
+  matplotlib
+  seaborn
+  wandb
